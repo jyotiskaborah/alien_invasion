@@ -1,3 +1,2 @@
 #ignore while pushing to git
 __pycache__/
-*.gitignore
